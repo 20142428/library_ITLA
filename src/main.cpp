@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : Library.cpp
-// Author      : 
-// Version     :
+// Author      : Isrhael De Jesús Reyes
+// Version     : 1.2
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
